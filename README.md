@@ -1,4 +1,4 @@
-# finalProject
+# Computer programming for estimating thermodynamic properties of water and steam
 final project for my bachelor's degree
 
 ======================================
